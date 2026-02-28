@@ -1,5 +1,4 @@
 # FC0456TareaProgramacionBasica
-tarea
 
 using System;
 using System.Collections.Generic;
